@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<store>
+	<material PriceForGramm="1000" code="1" name="Gold"/>
+	<material PriceForGramm="500" code="2" name="Silver"/>
+	<material PriceForGramm="250" code="3" name="Bronze"/>
+	<material PriceForGramm="1500" code="4" name="Platinum"/>
+	<material PriceForGramm="1000" code="5" name="Gold1"/>
+	<product code="1" material="1" name="Goldcoin" price="10000" typel="Ring" weight="10"/>
+	<product code="2" material="2" name="Argo" price="15000" typel="Necklace" weight="30"/>
+	<product code="3" material="3" name="Maria" price="1250" typel="Earrings" weight="5"/>
+	<product code="4" material="1" name="Darling" price="40000" typel="Necklace" weight="40"/>
+	<product code="5" material="4" name="Unity" price="22500" typel="Ring" weight="15"/>
+	<sell code="1" name="Ivan" number="+7901" product="3" secname="Stepanovich" surname="Pavlov1"/>
+	<sell code="2" name="Sergey" number="+7902" product="1" secname="Sergeevich" surname="Mugin"/>
+	<sell code="3" name="Genadiy" number="+7903" product="2" secname="Olegovhich" surname="Petrushkin"/>
+	<sell code="4" name="Anatolyi" number="+7904" product="5" secname="Viktorovich" surname="Semenov"/>
+	<sell code="5" name="Semen" number="+7905" product="4" secname="Petrovich" surname="Rukov"/>
+</store>
